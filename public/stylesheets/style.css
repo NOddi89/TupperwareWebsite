@@ -27,7 +27,7 @@ html, body {
 
 /* additional sections */
 #home {
-  background: url(/images/Avanti_glass.jpg) no-repeat center center fixed; 
+  background: url(/images/coastal_party_lifestyle.jpg) no-repeat center center fixed; 
   display: table;
   height: 100%;
   position: relative;
@@ -41,11 +41,11 @@ html, body {
 #about {
 }
 
-#services {
+#host {
   background-color: #306d9f;
   color: #ffffff;
 }
-#services .glyphicon {
+#host .glyphicon {
   border: 2px solid #FFFFFF;
   border-radius: 50%;
   display: inline-block;
@@ -57,8 +57,11 @@ html, body {
   width: 140px;
 }
 
+#gifts {	
+}
+
 #information {
-  background: url(../images/estate.jpg) no-repeat center center fixed; 
+  background: url(/images/poly-bg-6.jpg) no-repeat center center fixed; 
   display: table;
   height: 800px;
   position: relative;
@@ -72,9 +75,6 @@ html, body {
   opacity: 0.85;
 }
 
-#google_map {
-  height: 500px;
-}
 
 footer {
   padding: 20px 0;
